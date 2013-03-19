@@ -1,6 +1,6 @@
 require 'action_dispatch'
 require 'exception_notifier/notifier'
-require 'exception_notifier/campfire_notifier'
+# require 'exception_notifier/campfire_notifier'
 
 class ExceptionNotifier
 
